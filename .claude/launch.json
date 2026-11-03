@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "lab-with-fakes",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["scripts/run-with-fakes.sh"],
+      "port": 3100
+    }
+  ]
+}
